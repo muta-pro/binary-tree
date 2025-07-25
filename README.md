@@ -7,6 +7,7 @@ Prototype should be as follows;
 int size_binary_tree(t_btree *root);
 
 You have to use ft_btree.h file, which will only contain:
+
 typedef struct s_btree
 {
   int value;
